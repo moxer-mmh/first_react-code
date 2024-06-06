@@ -1,4 +1,4 @@
-my first react app
+my first react code
 
 -npm install -s
 
